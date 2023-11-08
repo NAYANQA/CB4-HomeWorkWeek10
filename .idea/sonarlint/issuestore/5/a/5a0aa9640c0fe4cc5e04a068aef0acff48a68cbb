@@ -1,0 +1,13 @@
+
+}
+java:S1488D"`Immediately return this expression instead of assigning it to the temporary variable "addition".(ÇÔ£â8§…—ôº1
+€
+java:S1488I"cImmediately return this expression instead of assigning it to the temporary variable "subtraction".(áŞÚ¯8¨…—ôº1
+ˆ
+java:S1488N"fImmediately return this expression instead of assigning it to the temporary variable "multiplication".(ãÈİ®ûÿÿÿÿ8¨…—ôº1
+f
+java:S2583T"DChange this condition so that it does not always evaluate to "false"(÷Ä–óüÿÿÿÿ8°…—ôº1
+G	java:S106`"+Replace this use of System.out by a logger.(Ëúõ8íŞ˜ôº1
+G	java:S106a"+Replace this use of System.out by a logger.(àÏ„8íŞ˜ôº1
+L	java:S106d"+Replace this use of System.out by a logger.(èŸáÔüÿÿÿÿ8îŞ˜ôº1
+G	java:S106e"+Replace this use of System.out by a logger.(á”»8îŞ˜ôº1

@@ -1,0 +1,13 @@
+
+r	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ò×œşÿÿÿÿ8±¼øÚº1
+r	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ò×œşÿÿÿÿ8±¼øÚº1
+_
+java:S2184E"BCast one of the operands of this addition operation to a "double".(çîŸˆ8±¼øÚº1
+d
+java:S2184I"BCast one of the operands of this addition operation to a "double".(¤Ä¡«üÿÿÿÿ8±¼øÚº1
+_
+java:S2184M"BCast one of the operands of this addition operation to a "double".(¢ö€»8äµùÚº1
+L	java:S106S"+Replace this use of System.out by a logger.(°ó¿áúÿÿÿÿ8ÁıÚº1
+L	java:S106U"+Replace this use of System.out by a logger.(”€†¶şÿÿÿÿ8ÁıÚº1
+G	java:S106V"+Replace this use of System.out by a logger.(ì¾„ş8ÁıÚº1
+L	java:S106X"+Replace this use of System.out by a logger.(ÌÓ˜ÿÿÿÿÿ8ÁıÚº1
